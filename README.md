@@ -8,20 +8,20 @@ I build end-to-end projects from data exploration to modeling and business insig
 
 ## 🧠 Skills
 
-Machine Learning
+**Machine Learning**
 • Regression, Classification, Clustering
 • Model evaluation & cross-validation
 • Hyperparameter tuning (GridSearchCV)
 
-Data Science
+**Data Science**
 • EDA & Feature Engineering
 • Data cleaning & preprocessing
 
-Deep Learning
+**Deep Learning**
 • CNN & Transfer Learning (VGG16)
 • NLP (TF-IDF, Word2Vec, BERT)
 
-Tech Stack
+**Tech Stack**
 • Python (Pandas, Scikit-learn, TensorFlow)
 • Matplotlib / Seaborn
 • Git / GitHub
