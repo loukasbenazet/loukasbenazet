@@ -77,7 +77,7 @@ I am especially interested in:
 ## 📫 Contact
 
 📍 Toulouse, France  
-💼 LinkedIn: *(https://www.linkedin.com/in/loukasbenazet/)*## Hi there 👋
+💼 LinkedIn: *https://www.linkedin.com/in/loukasbenazet/*
 
 <!--
 **loukasbenazet/loukasbenazet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
