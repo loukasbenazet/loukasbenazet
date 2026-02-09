@@ -1,34 +1,31 @@
 # Hi, I'm Loukas 👋
 
-🎯 Junior Data Scientist / Machine Learning Engineer based in Toulouse, France  
-I recently completed a Data Science diploma (RNCP level 7 – CentraleSupélec x OpenClassrooms) and I’m actively looking for my first role in Data Science / Machine Learning.
+🎯 Junior Data Scientist focused on solving real business problems using Machine Learning.
 
-I love building end-to-end ML projects that solve real business problems.
-
+I build end-to-end projects from data exploration to modeling and business insights.
 
 ---
 
 ## 🧠 Skills
 
-**Machine Learning**
-- Regression, Classification, Clustering
-- Model evaluation & cross-validation
-- Hyperparameter tuning (GridSearchCV)
+Machine Learning
+• Regression, Classification, Clustering
+• Model evaluation & cross-validation
+• Hyperparameter tuning (GridSearchCV)
 
-**Data Science**
-- Exploratory Data Analysis
-- Feature Engineering
-- Data cleaning & preprocessing
+Data Science
+• EDA & Feature Engineering
+• Data cleaning & preprocessing
 
-**Deep Learning**
-- CNN & Transfer Learning (VGG16)
-- NLP (TF-IDF, Word2Vec, BERT)
+Deep Learning
+• CNN & Transfer Learning (VGG16)
+• NLP (TF-IDF, Word2Vec, BERT)
 
-**Tools**
-- Python (Pandas, Scikit-learn, TensorFlow, Keras)
-- Matplotlib / Seaborn
-- Git / GitHub
-- Streamlit / Flask
+Tech Stack
+• Python (Pandas, Scikit-learn, TensorFlow)
+• Matplotlib / Seaborn
+• Git / GitHub
+• Streamlit / Flask
 
 
 ---
@@ -71,6 +68,7 @@ I am especially interested in:
 - Business-oriented Data Science
 - AI applied to real-world problems
 
+Open to opportunities in France or remote.
 
 ---
 
